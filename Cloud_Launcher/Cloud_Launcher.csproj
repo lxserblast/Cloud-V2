@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{934E3827-9198-4919-92AA-DEDFA545D694}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Cloud_Launcher_v2</RootNamespace>
-    <AssemblyName>Cloud_Launcher</AssemblyName>
+    <RootNamespace>Cl0ud_Launcher_</RootNamespace>
+    <AssemblyName>Cl0ud_Launcher</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
